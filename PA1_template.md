@@ -9,7 +9,7 @@ The data file for this project is available in:
 [Github repository](http://github.com/rdpeng/RepData_PeerAssessment1).
 
 The data file ("activity.csv") is in a zip archive in this repository. This 
-repository was forked and a local R project was created by cloning this repository.
+repository was forked and a local RStudio project was created by cloning this repository.
 Steps involved in extracting and pre-processing data:
 
 1. **Extract data file from zip archive**
