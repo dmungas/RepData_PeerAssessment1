@@ -108,7 +108,7 @@ The following figure shows daily average number of steps by data collection inte
 plot(mean_steps ~ interval, data = dave, type="l", 
      ylab="Daily mean number of steps",
      xlab="Beginning time of 5-minute interval (minutes from midnight)",
-     main="Daily mean number of steps by five minute data collection interval")
+     main="Daily mean number of steps by 5-minute data collection interval")
 ```
 
 
